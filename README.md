@@ -1,4 +1,5 @@
 <h2>Mailer-Automation-ADB</h2>
+<img src="https://github.com/ooovenenoso/Mailer-Automation-ADB/blob/main/maileradb.png?raw=true" alt="Texto alternativo" width="25%">
 <p>This is a Discord bot that sends SMS messages using a Google Spreadsheet.</p>
 
 <h3>Requirements</h3>
