@@ -32,7 +32,7 @@
 </ol>
 
 <h3>ADB and shellms Dependencies</h3>
-<p>The bot utilizes ADB (Android Debug Bridge) and the <code>shellms</code> package for sending SMS messages. Make sure you have ADB installed on your system and the <code>shellms</code> package available. You can install ADB by following the instructions specific to your operating system.</p>
+<p>The bot utilizes ADB (Android Debug Bridge) and the <a href="https://github.com/try2codesecure/ShellMS">shellms</a> package for sending SMS messages. Make sure you have ADB installed on your system and the <code>shellms</code> package available. You can install ADB by following the instructions specific to your operating system.</p>
 
 <h3>Usage</h3>
 <ol start="4">
